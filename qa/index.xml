@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qas on </title>
+    <link>https://medical-job.proposal.biyard.co./qa/</link>
+    <description>Recent content in Qas on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 09 Mar 2023 10:52:00 +0900</lastBuildDate><atom:link href="https://medical-job.proposal.biyard.co./qa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>성능 및 품질</title>
+      <link>https://medical-job.proposal.biyard.co./qa/main/</link>
+      <pubDate>Thu, 09 Mar 2023 10:52:00 +0900</pubDate>
+      
+      <guid>https://medical-job.proposal.biyard.co./qa/main/</guid>
+      <description>1 성능 요구사항    항목 목표수치     [웹/모바일] 동시접속자 50 명이상   [백엔드] 트랜잭션 처리속도 3000 TPS이상    2 인터페이스 요구사항 2.1 편의성  사용자에게 필요한 기능과 정보를 제공 사용자의 목적의 시간과 단계를 최소화 직관적이고 일관성 있게 구현 사용자가 실수하지 않게 구현  2.2 일관성  정보 전달에 용이한 일관성 있는 화면 구조 제공 사용자 친화적인 어휘와 일관된 메시지 사용 강조/에러를 표현하는 컬러 등 의미있는 컬러를 일관되게 사용 통일된 서체와 체계화된 크기의 서체 사용  2.</description>
+    </item>
+    
+  </channel>
+</rss>

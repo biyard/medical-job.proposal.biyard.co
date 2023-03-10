@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Develops on </title>
+    <link>https://medical-job.proposal.biyard.co./develop/</link>
+    <description>Recent content in Develops on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 09 Mar 2023 10:52:00 +0900</lastBuildDate><atom:link href="https://medical-job.proposal.biyard.co./develop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>기술 및 기능</title>
+      <link>https://medical-job.proposal.biyard.co./develop/main/</link>
+      <pubDate>Thu, 09 Mar 2023 10:52:00 +0900</pubDate>
+      
+      <guid>https://medical-job.proposal.biyard.co./develop/main/</guid>
+      <description>1 기능 요구사항 1.1 공통 요구사항 1.1.1 회원가입/탈퇴  아이디/패스워드 기반 회원가입 및 탈퇴 패스워드 변경  1.1.2 회원정보 수정  회원 정보 수정  1.2 시스템 관리자 기능 요구사항 1.2.1 병원 승인  신청된 병원 인증의 내역을 확인하고, 병원을 승인 승인된 병원에 대해서는 마크 표시등으로 인증 마크 부여  1.2.2 구인공고 관리  신고가 많은 구인공고 관리  1.2.3 배너 관리  신청 배너 승인 및 결제 요청 결제 완료 모듈에 대한 배너 일정 관리  예) 배너에 전시될 기간 설정    1.</description>
+    </item>
+    
+  </channel>
+</rss>
